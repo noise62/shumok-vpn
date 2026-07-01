@@ -1,4 +1,5 @@
 #profile-title: Шумок Кирюха | Bypa$$
+#profile-update-interval: 60
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&type=tcp&headerType=none#⬇WI-FI СЕРВЕРА⬇
 vless://a29b529f-ef5d-4400-9d79-65f10ce033dd@155.117.137.104:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&fp=firefox&sni=cdn4-35.yahoo.com&sid=e1d75c3d43f85999&spx=%2F&flow=xtls-rprx-vision&type=tcp&headerType=none#Казахстан №1 | Shumok
 vless://6429d1d5-de69-4758-9046-e72861a40cb9@nlnode.kaguya.sbs:443?security=reality&encryption=none&pbk=zou0kbUyy7xxEi2HczjD33j3RWZ-kqxcQKHAU_lcNSE&fp=firefox&sni=nlnode.kaguya.sbs&flow=xtls-rprx-vision&type=tcp&headerType=none#Нидерланды №2 | Shumok
