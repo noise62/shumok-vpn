@@ -2,9 +2,9 @@
 #profile-description: Bypa$$ всех блокировок от РКН | By @noiserw
 #profile-update-interval: 1
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&type=tcp&headerType=none#⬇WI-FI СЕРВЕРА⬇
-vless://a29b529f-ef5d-4400-9d79-65f10ce033dd@155.117.137.104:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&fp=firefox&sni=cdn4-35.yahoo.com&sid=e1d75c3d43f85999&spx=%2F&flow=xtls-rprx-vision&type=tcp&headerType=none#Казахстан №1 | Shumok
+vless://583579d7-be98-4f7e-a176-bc407ce14934@n2latv.usractivity-metrics.digital:443?security=tls&encryption=none&fp=firefox&sni=n2latv.usractivity-metrics.digital&type=ws&path=%2Fmedia%2Fws%2F#Латвия №1 | Shumok
 vless://b1dd823e-0430-4c5e-a2b3-7ccb5d3998ea@fr.good-server-list.life:8443?security=tls&encryption=none&fp=firefox&sni=fr.good-server-list.life&type=ws&host=fr.good-server-list.life&path=%2Fvless#Франция №2 | Shumok
-vless://b1dd823e-0430-4c5e-a2b3-7ccb5d3998ea@deinst.good-server-list.life:8443?security=tls&encryption=none&fp=firefox&sni=deinst.good-server-list.life&type=ws&host=deinst.good-server-list.life&path=%2Fvless#Германия Нейронки №3 | Shumok
+vless://b1dd823e-0430-4c5e-a2b3-7ccb5d3998ea@deinst.good-server-list.life:8443?security=tls&encryption=none&fp=firefox&sni=deinst.good-server-list.life&type=ws&host=deinst.good-server-list.life&path=%2Fvless#Германия Нейросети №4 | Shumok
 vless://b1dd823e-0430-4c5e-a2b3-7ccb5d3998ea@uk.good-server-list.life:443?security=reality&encryption=none&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&fp=firefox&sni=eh.vk.com&sid=53c8004fa34e8724&flow=xtls-rprx-vision&type=tcp#Великобритания №4 | Shumok
 vless://b1dd823e-0430-4c5e-a2b3-7ccb5d3998ea@de-test.good-server-list.life:8443?security=tls&encryption=none&fp=firefox&sni=de-test.good-server-list.life&type=ws&host=de-test.good-server-list.life&path=%2Fvless#Германия(TikTok) №5 | Shumok
 vless://b1dd823e-0430-4c5e-a2b3-7ccb5d3998ea@de.good-server-list.life:443?security=tls&encryption=none&fp=firefox&sni=de.good-server-list.life&type=ws&host=de.good-server-list.life&path=%2Fvless#Германия №6 | Shumok
