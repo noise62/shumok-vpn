@@ -8,7 +8,7 @@ vless://b1dd823e-0430-4c5e-a2b3-7ccb5d3998ea@deinst.good-server-list.life:8443?s
 vless://b1dd823e-0430-4c5e-a2b3-7ccb5d3998ea@uk.good-server-list.life:443?security=reality&encryption=none&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&fp=firefox&sni=eh.vk.com&sid=53c8004fa34e8724&flow=xtls-rprx-vision&type=tcp#🇬🇧 Великобритания
 vless://b1dd823e-0430-4c5e-a2b3-7ccb5d3998ea@de-test.good-server-list.life:8443?security=tls&encryption=none&fp=firefox&sni=de-test.good-server-list.life&type=ws&host=de-test.good-server-list.life&path=%2Fvless#🇩🇪 Германия(TikTok)
 vless://583579d7-be98-4f7e-a176-bc407ce14934@reg.animwatch.biz:443?encryption=none&security=tls&sni=reg.animwatch.biz&fp=firefox&type=ws&path=%2Fmedia%2Fws%2F&host=#🇵🇱%20Польша
-vless://583579d7-be98-4f7e-a176-bc407ce14934@export.wavycaptcha.surf:443?encryption=none&security=tls&sni=export.wavycaptcha.surf&fp=edge&type=ws&path=%2Fmedia%2Fws%2F&host=#🇪🇪%20Эстония%20Ютуб%20%2B%20VPN
+vless://583579d7-be98-4f7e-a176-bc407ce14934@export.wavycaptcha.surf:443?encryption=none&security=tls&sni=export.wavycaptcha.surf&fp=edge&type=ws&path=%2Fmedia%2Fws%2F&host=#🇪🇪%20Эстония%20Ютуб+VPN
 vless://583579d7-be98-0002-a176-bc407ce14934@84.201.131.237:443?security=reality&encryption=none&pbk=sTcW5MUl06ntawTcPTOysKh0PC8aWFgSNG0pGx2rTn8&fp=chrome&sni=yandex.ru&sid=ed731b9c3d12b9bb&flow=xtls-rprx-vision&type=tcp#🇪🇺 Евросоюз
 vless://b1dd823e-0430-4c5e-a2b3-7ccb5d3998ea@ru.good-server-list.life:5497?security=tls&encryption=none&fp=firefox&sni=ru.good-server-list.life&type=ws&host=ru.good-server-list.life&path=%2Fvless#🇷🇺 Россия Ютуб
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&type=tcp&headerType=none#⬇️Обход Глушилок⬇️
